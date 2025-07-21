@@ -71,8 +71,8 @@ No frameworks. No external libraries. 100% Vanilla JS 🍦
 ---
 
 ## 🏁 Status
--✅ All projects are completed and functional.
--🧪 Browser-tested on Chrome, Firefox, and Edge.
--📅 Completed on: 21 July 2025
+- ✅ All projects are completed and functional.
+- 🧪 Browser-tested on Chrome, Firefox, and Edge.
+- 📅 Completed on: 21 July 2025
 
 ---
